@@ -7,10 +7,7 @@
 
 #}
 
-
-#input="/home/dhiraj/bugs/proj/superdrug/javascript"
-
 while read -r line;
 do
 	# otx $line
-done < ~/bugs/proj/dell/boomi/alive_sub
+done < alive_sub
